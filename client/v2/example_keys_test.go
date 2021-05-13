@@ -1,1 +1,1 @@
-../../tests/integration/client/examples/example_keys_test.go
+../../tests/v3/integration/client/examples/example_keys_test.go
