@@ -14,8 +14,8 @@ require (
 )
 
 replace (
-	go.etcd.io/etcd/api/v3 => ../../api
-	go.etcd.io/etcd/client/pkg/v3 => ../pkg
+	go.etcd.io/etcd/api/v3 => ../../api/v3
+	go.etcd.io/etcd/client/pkg/v3 => ../pkg/v3
 )
 
 // Bad imports are sometimes causing attempts to pull that code.
